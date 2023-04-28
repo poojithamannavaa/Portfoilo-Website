@@ -11,7 +11,7 @@
 }
 :root {
   --main-color: rgb(146, 19, 110);
-  --bg-color:pink;
+  --bg-color:black;
   --text-color: #0f0c27;
   --hover:hsl(324, 100%, 51%);
  
@@ -24,7 +24,7 @@ section {
 }
 body.active {
   --text-color: #fff;
-  --bg-color: #000000;
+  --bg-color: #0f0c27;
 }
 body {
   background: var(--bg-color);
@@ -337,7 +337,7 @@ form textarea {
   display: grid;
   place-items: center;
   padding: 20px;
-  background: #000000;
+  background: #ebebeb;
   color: #000;
 }
 .footer h2 {
