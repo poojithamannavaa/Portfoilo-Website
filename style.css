@@ -221,7 +221,7 @@ span {
 .js-bar {
   width: 75%;
 }
-.java-bar {
+.python-bar {
   width: 80%;
 }
 .sql-bar{
@@ -541,5 +541,5 @@ form textarea {
 }
 .owl-dot.active,
 .owl-dot:hover{
- background: crimson!important;
+  background: crimson!important;
 }
